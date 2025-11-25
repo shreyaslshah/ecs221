@@ -41,6 +41,7 @@ click-repl==0.3.0
 cloudpickle==2.2.1
 -e git+https://github.com/shreyaslshah/kidney-disease-classification-deep-learning.git@0481190047a882af2ddf03707d333cfd0c58ce6a#egg=cnnClassifier
 colorama==0.4.6
+colorlog==6.10.1
 comm==0.2.2
 configobj==5.0.8
 contourpy==1.2.1
@@ -98,6 +99,8 @@ httpcore==1.0.5
 httpx==0.27.0
 hydra-core==1.3.2
 idna==3.7
+imbalanced-learn==0.12.4
+imblearn==0.0
 importlib-metadata==6.11.0
 importlib_resources==6.4.2
 iniconfig==2.1.0
@@ -155,6 +158,7 @@ numpy==1.23.5
 oauthlib==3.2.2
 omegaconf==2.3.0
 opt-einsum==3.3.0
+optuna==4.6.0
 orjson==3.10.7
 overrides==7.7.0
 packaging==23.2
